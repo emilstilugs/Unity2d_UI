@@ -1,8 +1,8 @@
 # Unity2d_UI
 
 ### Veicamo darbu saraksts
- - [x] Nodrošināt projekta versionēšanu
- - [x] Ievietot teksta logu, teksta lauku un pogu
+ - [ ] Nodrošināt projekta versionēšanu
+ - [ ] Ievietot teksta logu, teksta lauku un pogu
  - [ ] Ievietot attēlus
  - [ ] Ievietot ček boksus
  - [ ] Nodrošināt radio pogas darbību
