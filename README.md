@@ -1,12 +1,12 @@
 # Unity2d_UI
 
 ### Veicamo darbu saraksts
- - [ ] Nodrošināt projekta versionēšanu
- - [ ] Ievietot teksta logu, teksta lauku un pogu
- - [ ] Ievietot attēlus
- - [ ] Ievietot ček boksus
- - [ ] Nodrošināt radio pogas darbību
- - [ ] Izveidot izkrītošā saraksta pogu
- - [ ] Nodrošināt attēla izmēra maiņu ar bīdjoslu
- - [ ] Nodrošināt attēla pārvietošanu ar peles palīdzību
- - [ ] Pievienot audio failus
+ - [x] Nodrošināt projekta versionēšanu
+ - [x] Ievietot teksta logu, teksta lauku un pogu
+ - [x] Ievietot attēlus
+ - [x] Ievietot ček boksus
+ - [x] Nodrošināt radio pogas darbību
+ - [x] Izveidot izkrītošā saraksta pogu
+ - [x] Nodrošināt attēla izmēra maiņu ar bīdjoslu
+ - [x] Nodrošināt attēla pārvietošanu ar peles palīdzību
+ - [x] Pievienot audio failus
